@@ -1,0 +1,5 @@
+numpy
+matplotlib
+Cartopy
+obspy
+dearpygui
